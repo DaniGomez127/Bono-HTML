@@ -1,0 +1,17 @@
+/* Estilos personalizados para la página de Jurassic Park */
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1, h2 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+p {
+    margin-bottom: 20px;
+}
+
+img {
+    margin-bottom: 10px;
+}
